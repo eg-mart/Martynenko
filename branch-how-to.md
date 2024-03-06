@@ -7,3 +7,9 @@ git branch "name of branch"
 ```
 git checkout "name of branch"
 ```
+Отправить измения в ветке на сервер
+```
+git add "name"
+git commit -m "comments"
+git push
+```
